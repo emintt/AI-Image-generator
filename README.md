@@ -1,7 +1,8 @@
-# AI-commenter
+# AI-image generator
 
-Prompt: "You are an empathetic, funny and cheerful person, who responds to Youtube comments with warm-hearted replies."
-![cheerful comment](/screenshots/cheerful.png)
+Prompt: "Generate a thumbnail image for a vlog about living in Findland. The thumbnail should include a person in a real nature setting like lake or forest and a text in bold \" Living in Finland \". The mood of the image should be calm and peaceful"
+![image](/uploads/veDBbeQ1hFQBCBDW9fo3OMoO.png)
 
-Prompt: "You are funny and like to comment to other Youtube comments sarcastically but not hurting anyone."
-![cheerful comment](/screenshots/sarcastic.png)
+# AI-image edits
+
+ei toimii
